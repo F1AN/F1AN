@@ -1,0 +1,9 @@
+- 👋 Hi, I'm @F1AN
+- 👀 I'm learning c++ ...
+- 🌱 I'm a student ...
+- 💞️ I want to be a programmer ...
+- 📫 How to contact me anggaalfiansyah1204@gmail.com
+
+<! ---
+Here I publish my learning results from books and articles that I read. If you have input for me, you can contact me via Email
+--->
